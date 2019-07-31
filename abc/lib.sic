@@ -1,0 +1,32 @@
+GATE AND 1  Y = ( A * B );
+  PIN A NONINV 0 0 0 0 0 0
+  PIN B NONINV 0 0 0 0 0 0
+
+GATE NAND 1  Y = !( A * B );
+  PIN A NONINV 0 0 0 0 0 0
+  PIN B NONINV 0 0 0 0 0 0
+
+GATE OR 1  Y = ( A + B );
+  PIN A NONINV 0 0 0 0 0 0
+  PIN B NONINV 0 0 0 0 0 0
+
+GATE NOR 1  Y = !( A + B );
+  PIN A NONINV 0 0 0 0 0 0
+  PIN B NONINV 0 0 0 0 0 0
+
+GATE XOR 1  Y = ( ( A * !B ) + ( !A * B ) );
+  PIN A NONINV 0 0 0 0 0 0
+  PIN B NONINV 0 0 0 0 0 0
+
+GATE XNOR 1  Y = !( ( A * !B ) + ( !A * B ) );
+  PIN A NONINV 0 0 0 0 0 0
+  PIN B NONINV 0 0 0 0 0 0
+
+GATE inv 0  Y = !A;
+  PIN A NONINV 0 0 0 0 0 0
+
+GATE BUF 0 Y = A;
+  PIN A NONINV 0 0 0 0 0 0
+
+GATE LOGIC0 0   Y=CONST0;
+GATE LOGIC1 0   Y=CONST1;

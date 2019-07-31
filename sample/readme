@@ -1,0 +1,6 @@
+iogen: the executable in-out relation generator
+io_info.txt: The input/output information of the generator
+in_pat.txt: It is just a input format reference
+
+execution:
+./iogen <your_in_pat.txt> <io_rel.txt>

@@ -1,0 +1,5 @@
+resyn; print_stats
+resyn; print_stats
+resyn; print_stats
+resyn; print_stats
+fraig; print_stats
