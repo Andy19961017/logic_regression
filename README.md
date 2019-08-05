@@ -1,5 +1,5 @@
 # Logic Regression on High Dimensional Boolean Space
-![Image of 1](https://github.com/Andy19961017/logic_regression/blob/master/images/1.png)
+![Image of 1](https://github.com/Andy19961017/logic_regression/blob/master/images/1_.png)
 ![Image of 2](https://github.com/Andy19961017/logic_regression/blob/master/images/2.png)
 ![Image of 3](https://github.com/Andy19961017/logic_regression/blob/master/images/3.png)
 ![Image of 4](https://github.com/Andy19961017/logic_regression/blob/master/images/4.png)
